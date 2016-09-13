@@ -1,2 +1,2 @@
 # circleoffifths
-ionicApp || music theory
+ionicApp v2 || music theory
